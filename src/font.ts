@@ -13,27 +13,27 @@ export const caveat = Caveat({
 
 export let data = [
   {
-    pic: "/myImage/1.png",
+    pic: "/myImage/1.PNG",
     heading: "Blog Website"
   },
   {
-    pic: "/myImage/2.png",
+    pic: "/myImage/2.PNG",
     heading: "Panacloud Website"
   },
   {
-    pic: "/myImage/3.png",
+    pic: "/myImage/3.PNG",
     heading: "Iphone Website"
   },
   {
-    pic: "/myImage/4.png",
+    pic: "/myImage/4.PNG",
     heading: "Multipage Website"
   },
   {
-    pic: "/myImage/5.png",
+    pic: "/myImage/5.PNG",
     heading: "Figma Website"
   },
   {
-    pic: "/myImage/6.png",
+    pic: "/myImage/6.PNG",
     heading: "Chairs Website"
   },
 ]
