@@ -18,7 +18,7 @@ export let data = [
   },
   {
     pic: "/myImage/2.png",
-    heading: "Calculater Project"
+    heading: "Panacloud Website"
   },
   {
     pic: "/myImage/3.png",
@@ -26,7 +26,7 @@ export let data = [
   },
   {
     pic: "/myImage/4.png",
-    heading: "port folio"
+    heading: "Multipage Website"
   },
   {
     pic: "/myImage/5.png",
@@ -34,6 +34,6 @@ export let data = [
   },
   {
     pic: "/myImage/6.png",
-    heading: "From Web"
+    heading: "Chairs Website"
   },
 ]
